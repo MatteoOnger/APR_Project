@@ -6,7 +6,7 @@ This repository contains all the material related to the project for the course 
   <li>Instructor: <b>Prof. Ntalampiras Stavros</b>
 </ul>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatteoOnger/AMD_Project/blob/main/AMD_FSI.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatteoOnger/APR_Project/blob/main/APR_SER.ipynb)
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
